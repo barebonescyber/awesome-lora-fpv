@@ -440,6 +440,7 @@ First-person view (FPV) drones allow pilots to fly as if seated in the cockpit, 
 - Display battery voltage, flight time, GPS via OSD.
 - Customize warnings and alerts.
 - PID tuning for smooth flight.
+- [FPVTune](https://fpvtune.com/) - Upload Betaflight blackbox logs and get PID/filter tuning suggestions.
 - Rates/expo for stick feel.
 - Filters to reduce noise.
 - Blackbox logging for analysis.
